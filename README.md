@@ -1,4 +1,4 @@
-<h2> Hey 👋 there! I'm sahayog a passionate front-end web developer. </h2>
+<h2> Hey 👋 there! I'm Sahayog a passionate front-end web developer. </h2>
 <p>I‘m a Frontend Developer with basic knowledge about designing great user interface and develop real life web apps.</p>
 <img alt="coding" src="http://imgstack.net/images/VexVX.png" width="500"/>
 
